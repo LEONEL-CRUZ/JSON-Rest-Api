@@ -1,0 +1,29 @@
+{
+    "Alumnos": [
+        {
+            "nombre": "Leonel",
+            "Apellido": "Gutierrez",
+            "Años" : 21
+        },
+        {
+            "nombre": "Jaime",
+            "Apellido": "Suarez",
+            "Años" : 21
+        },
+        {
+            "nombre": "Cynthia",
+            "Apellido": "Estrada",
+            "Años" : 21
+        },
+        {
+            "nombre": "Roberto",
+            "Apellido": "Lopez",
+            "Años" : 21
+        },
+        {
+            "nombre": "Carlos",
+            "Apellido": "Mendoza",
+            "Años" : 21
+        }
+    ]
+}
